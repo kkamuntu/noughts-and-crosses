@@ -1,6 +1,6 @@
 # Noughts and Crosses Game
 
-A 2-player noughts and crosses game
+A Python based 2-player noughts and crosses game
 
 ## How to play
 
